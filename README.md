@@ -1,4 +1,4 @@
 # call-api
 
-- APIをAsyncで取って、検索
+- JavaScriptで、APIをAsyncで取って検索
 - https://jsonplaceholder.typicode.com
