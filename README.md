@@ -7,6 +7,5 @@
 - VSCodeからmessage
 
 mainからクローズ
-フェッチテスト
 
 プルリク
