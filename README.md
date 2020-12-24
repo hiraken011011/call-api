@@ -5,4 +5,7 @@
 
 - GitHubの使い方に慣れる
 - VSCodeからmessage
-- クローズする!!
+
+mainからクローズ
+
+プルリク
