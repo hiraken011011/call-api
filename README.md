@@ -7,3 +7,4 @@
 - VSCodeからmessage
 
 mainからクローズ
+フェッチテスト
