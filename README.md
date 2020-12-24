@@ -5,3 +5,4 @@
 
 - [ ] mainからクローズ
 - [ ] VSCodeからmessage
+- [ ] developにマージ
