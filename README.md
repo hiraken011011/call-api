@@ -5,4 +5,4 @@
 
 - GitHubの使い方に慣れる
 - VSCodeからmessage
-- クローズする
+- クローズする!!
