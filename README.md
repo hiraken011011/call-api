@@ -1,3 +1,4 @@
 # call-api
 
-- https://jsonplaceholder.typicode.comを使用
+- APIをAsyncで取って、検索
+- https://jsonplaceholder.typicode.com
